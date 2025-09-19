@@ -79,5 +79,6 @@ Meu nome é **Carlos**, e sou apaixondo pelo mercado de commodities e iniciante 
 
 ## 📫 Contato
 - **GitHub**: [wolfadvisor](https://github.com/wolfadvisor)
-- **LinkedIn**: [carlosribbeiro](http://linkedin.com/carlosribbeiro)
+- **LinkedIn**: [carlosribbeiro](https://www.linkedin.com/in/carlosribbeiro/)
+
 
