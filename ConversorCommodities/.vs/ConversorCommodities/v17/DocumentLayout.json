@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B34D707-0A3A-4FF2-8BFD-8D59022317EB}|ConversorCommodities\\ConversorCommodities.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\conversorcommodities\\conversorcommodities\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B34D707-0A3A-4FF2-8BFD-8D59022317EB}|ConversorCommodities\\ConversorCommodities.csproj|solutionrelative:conversorcommodities\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B34D707-0A3A-4FF2-8BFD-8D59022317EB}|ConversorCommodities\\ConversorCommodities.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\conversorcommodities\\conversorcommodities\\services\\commodityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B34D707-0A3A-4FF2-8BFD-8D59022317EB}|ConversorCommodities\\ConversorCommodities.csproj|solutionrelative:conversorcommodities\\services\\commodityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B34D707-0A3A-4FF2-8BFD-8D59022317EB}|ConversorCommodities\\ConversorCommodities.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\conversorcommodities\\conversorcommodities\\models\\cotacaoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B34D707-0A3A-4FF2-8BFD-8D59022317EB}|ConversorCommodities\\ConversorCommodities.csproj|solutionrelative:conversorcommodities\\models\\cotacaoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B34D707-0A3A-4FF2-8BFD-8D59022317EB}|ConversorCommodities\\ConversorCommodities.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\conversorcommodities\\conversorcommodities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B34D707-0A3A-4FF2-8BFD-8D59022317EB}|ConversorCommodities\\ConversorCommodities.csproj|solutionrelative:conversorcommodities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\Services\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "ConversorCommodities\\Services\\CurrencyService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\Services\\CurrencyService.cs",
+              "RelativeToolTip": "ConversorCommodities\\Services\\CurrencyService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:39:16.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommodityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\Services\\CommodityConverter.cs",
+              "RelativeDocumentMoniker": "ConversorCommodities\\Services\\CommodityConverter.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\Services\\CommodityConverter.cs",
+              "RelativeToolTip": "ConversorCommodities\\Services\\CommodityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:36:57.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CotacaoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\Models\\CotacaoResponse.cs",
+              "RelativeDocumentMoniker": "ConversorCommodities\\Models\\CotacaoResponse.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\Models\\CotacaoResponse.cs",
+              "RelativeToolTip": "ConversorCommodities\\Models\\CotacaoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:24:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\Program.cs",
+              "RelativeDocumentMoniker": "ConversorCommodities\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\Program.cs",
+              "RelativeToolTip": "ConversorCommodities\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:18:11.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
