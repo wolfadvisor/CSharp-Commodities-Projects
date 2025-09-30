@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversorCommodities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+811dd3b6bb0db56ba8c18fffbd67bb7646aa7717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+895bf51c4ba503ecfae2685136055082ba3a11e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversorCommodities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conversor de Commodities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.0.0")]

@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\appsettings.json",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\appsettings.json",
               "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-30T00:57:39.553Z",
               "EditorCaption": ""
@@ -55,25 +55,19 @@
               "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Config\\AppConfig.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T00:44:55.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T00:44:55.759Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalculadoraPre\u00E7oATermo",
+              "Title": "CalculadoraPre\u00E7oATermo.csproj",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj",
               "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj",
               "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-30T00:44:23.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-09-30T00:44:23.747Z"
             },
             {
               "$type": "Document",
@@ -85,8 +79,7 @@
               "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T00:45:40.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T00:45:40.237Z"
             },
             {
               "$type": "Document",
@@ -98,8 +91,15 @@
               "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Helpers\\InputHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T14:11:38.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T14:11:38.737Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
