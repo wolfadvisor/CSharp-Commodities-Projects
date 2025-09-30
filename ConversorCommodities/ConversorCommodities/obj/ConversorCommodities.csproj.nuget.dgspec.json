@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\ConversorCommodities.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\ConversorCommodities\\ConversorCommodities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\ConversorCommodities.csproj": {
+    "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\ConversorCommodities\\ConversorCommodities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\ConversorCommodities.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\ConversorCommodities\\ConversorCommodities.csproj",
         "projectName": "ConversorCommodities",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\ConversorCommodities.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\ConversorCommodities\\ConversorCommodities.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\ConversorCommodities\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\ConversorCommodities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,12 +1,194 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\ConversorCommodities\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\calculadorapre\u00E7oatermo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\calculadorapre\u00E7oatermo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\services\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\services\\calculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\services\\icalculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\services\\icalculadoraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\models\\dadoscalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\models\\dadoscalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\models\\custoarmagenazem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\models\\custoarmagenazem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\models\\resultadocalculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\models\\resultadocalculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|c:\\users\\user\\onedrive\\documentos\\c#\\csharp-commodities-projects\\conversorcommodities\\calculadorapre\u00E7oatermo\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4EADF1-2C86-4163-91F7-DFD59F002956}|CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj|solutionrelative:calculadorapre\u00E7oatermo\\helpers\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraPre\u00E7oATermo",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\CalculadoraPre\u00E7oATermo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T00:24:37.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Services\\CalculadoraService.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Services\\CalculadoraService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Services\\CalculadoraService.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Services\\CalculadoraService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwF8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:34:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculadoraService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Services\\ICalculadoraService.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Services\\ICalculadoraService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Services\\ICalculadoraService.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Services\\ICalculadoraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:31:18.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Services\\ApiService.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Services\\ApiService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:59:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Services\\IApiService.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Services\\IApiService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Services\\IApiService.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Services\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:55:42.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustoArmagenazem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Models\\CustoArmagenazem.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Models\\CustoArmagenazem.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Models\\CustoArmagenazem.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Models\\CustoArmagenazem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:33:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DadosCalculo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Models\\DadosCalculo.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Models\\DadosCalculo.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Models\\DadosCalculo.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Models\\DadosCalculo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:26:36.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Program.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:45:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultadoCalculos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Models\\ResultadoCalculos.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Models\\ResultadoCalculos.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Models\\ResultadoCalculos.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Models\\ResultadoCalculos.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:39:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Helpers\\InputHelper.cs",
+              "RelativeDocumentMoniker": "CalculadoraPre\u00E7oATermo\\Helpers\\InputHelper.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\C#\\CSharp-Commodities-Projects\\ConversorCommodities\\CalculadoraPre\u00E7oATermo\\Helpers\\InputHelper.cs",
+              "RelativeToolTip": "CalculadoraPre\u00E7oATermo\\Helpers\\InputHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:11:38.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
