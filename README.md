@@ -30,7 +30,7 @@ No futuro, esses projetos servirão como base para soluções tecnológicas que 
 ### 1. Conversor de Unidades para Commodities
 - **Descrição**: Converte sacas de milho (60kg) ⇆ toneladas métricas e realiza conversão de moedas (R$ ⇆ USD).
 - **Tecnologias**: C#, .NET (Console, futuro WinForms/WPF).
-- **Pasta**: [ConversorUnidades](./ConversorUnidades/)
+- **Pasta**: [ConversorUnidades]([./ConversorUnidades/](https://github.com/wolfadvisor/CSharp-Commodities-Projects/tree/main/ConversorCommodities/ConversorCommodities))
 
 ### 2. Calculadora de Preço a Termo
 - **Descrição**: Calcula preço a termo com base no preço spot, taxa de juros e prazo.
@@ -103,6 +103,7 @@ No futuro, esses projetos servirão como base para soluções tecnológicas que 
 git clone https://github.com/wolfadvisor/CSharp-Commodities-Projects.git
 cd CSharp-Commodities-Projects
 ```
+
 
 
 
