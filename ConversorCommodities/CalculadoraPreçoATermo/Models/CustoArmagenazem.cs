@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculadoraPreçoATermo.Models
 {
-    internal class CustoArmagenazem
+    public class CustoArmagenazem
     {
         public string Tipo { get; set; } = "Nenhum";
         public decimal CustoFixoMensal { get; set; }

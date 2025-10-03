@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CalculadoraPreçoATermo.Services
 {
-    internal class IApiService
+    public interface IApiService
     {
         Task<decimal> ObterCDIAsync();
         Task<decimal> ObterSelicAsync();

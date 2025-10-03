@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculadoraPreçoATermo.Models
 {
-    internal class ResultadoCalculos
+    public class ResultadoCalculos
     {
         public decimal ToneladasTotal { get; set; }
         public decimal ValorSpotTotal { get; set; }
@@ -19,7 +19,7 @@ namespace CalculadoraPreçoATermo.Models
         public decimal DiferencaTotal { get; set; }
 
         public decimal PercentualDiferenca => ValorSpotTotal > 0 ? (DiferencaTotal / ValorSpotTotal) * 100m : 0m;
-        public decimal TaxaEfetivaperiodo => PrecoSpot > 0 ? ((PrecoTermoUnitario / PrecoSpot) - 1) * 100m : 0m;
+        public decimal TaxaEfetivaPeriodo => PrecoSpot > 0 ? ((PrecoTermoUnitario / PrecoSpot) - 1) * 100m : 0m;
 
 
         private decimal PrecoSpot { get; set; }
